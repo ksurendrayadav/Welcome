@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php 
         // edited from git hub
+        
+        // edited from local netbeans
         phpinfo();
         // put your code here
         ?>
