@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php 
-        
+        // edited from git hub
         phpinfo();
         // put your code here
         ?>
